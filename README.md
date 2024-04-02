@@ -2,8 +2,6 @@
 The Python Banking App is a command-line application for basic banking operations with transaction logging and exception handling, implemented in Python.
 
 
-```markdown
-
 ## Features
 
 - **Deposit**: Users can deposit money into their account.
@@ -33,5 +31,5 @@ The Python Banking App is a command-line application for basic banking operation
 
 ## Contributors
 
-- [Rohan Das ](https://github.com/SURD1618)
+- [Rohan Das](https://github.com/SURD1618)
 
