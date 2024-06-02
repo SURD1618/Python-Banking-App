@@ -26,10 +26,3 @@ The Python Banking App is a command-line application for basic banking operation
    ```
    python banking_app.py
    ```
-
-4. Follow the prompts to perform banking operations.
-
-## Contributors
-
-- [Rohan Das](https://github.com/SURD1618)
-
